@@ -8,3 +8,5 @@ This branch comes from banch a
 =======
 This change comes from branch b
 >>>>>>> feature/branch-b
+## Feature Branch Update
+This change follows the GitHub feature branch workflow.
